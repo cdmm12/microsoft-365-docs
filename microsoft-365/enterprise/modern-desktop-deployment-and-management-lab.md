@@ -29,13 +29,13 @@ The lab kit is free to download and uses trial software.
 
 ## **A complete lab environment**
 
-The lab provides you with an automatically provisioned virtual lab environment, including domain-joined desktop clients, domain controller, Internet gateway and a fully configured ConfigMgr instance. The lab contains Evaluation Versions of the following products:
+The lab provides you with an automatically provisioned virtual lab environment, including domain-joined desktop clients, domain controller, Internet gateway and a fully configured ConfigMgr instance. The lab contains Evaluation Versions of the following products, including the latest versions of Windows and Office ProPlus:
 
-  - Windows 10 Enterprise, Version 1803
+  - NEW! Windows 10 Enterprise, Version 1809
   - Windows 7
-  - Office 365 ProPlus, Version 1807
+  - Office 365 ProPlus, Version 1811
   - System Center Configuration Manager, Version 1802
-  - Windows Assessment and Deployment Kit for Windows 10, Version 1803
+  - Windows Assessment and Deployment Kit for Windows 10, Version 1809
   - Microsoft Deployment Toolkit
   - Microsoft Application Virtualization (App-V) 5.1
   - Microsoft BitLocker Administration and Monitoring 2.5 SP1
@@ -114,7 +114,7 @@ Detailed lab guides take you through multiple deployment and management scenario
 
 ### [**Download the Modern Desktop Deployment and Management Lab Kit**](https://aka.ms/mddlabs_evalcenter)
 
-*Please use a broad bandwidth to download this content to enhance your downloading experience and allow 30-45 minutes for automatic provisioning. The lab environment requires a minimum of 16 GB of available memory and 150 GB of free disk space. For optimal performance, 32 GB of available is recommended. The lab expires December 9, 2018. A new version will be published prior to expiration.*
+*Please use a broad bandwidth to download this content to enhance your downloading experience and allow 30-45 minutes for automatic provisioning. The lab environment requires a minimum of 16 GB of available memory and 150 GB of free disk space. For optimal performance, 32 GB of available is recommended. The lab expires February 26, 2019. A new version will be published prior to expiration.*
 
 ## **Additional guidance**
 
